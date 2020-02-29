@@ -2920,3 +2920,90 @@
   text-transform:none;
   visibility:hidden;
 }
+#u65_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u65 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:8px;
+  width:30px;
+  height:30px;
+  display:flex;
+  color:#106EBE;
+}
+#u65 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u65_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u66_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'阿里巴巴普惠体 Bold', '阿里巴巴普惠体 Heavy', '阿里巴巴普惠体', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#106EBE;
+}
+#u66 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:11px;
+  width:107px;
+  height:25px;
+  display:flex;
+  font-family:'阿里巴巴普惠体 Bold', '阿里巴巴普惠体 Heavy', '阿里巴巴普惠体', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#106EBE;
+}
+#u66 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u66_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u67 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:45px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
