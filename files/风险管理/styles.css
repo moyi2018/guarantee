@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u117_div {
+#u139_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u117 {
+#u139 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -43,14 +43,14 @@
   height:170px;
   display:flex;
 }
-#u117 .text {
+#u139 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u117_text {
+#u139_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
